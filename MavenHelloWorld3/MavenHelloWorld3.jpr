@@ -79,6 +79,7 @@
    <value n="defaultPackage" v="group.id"/>
    <hash n="oracle.ide.model.TechnologyScopeConfiguration">
       <list n="technologyScope">
+         <string v="Maven"/>
          <string v="SOA"/>
       </list>
    </hash>
@@ -102,6 +103,26 @@
          <string v=".xml"/>
          <string v=".xsd"/>
          <string v=".xsl"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
          <string v=".exm"/>
          <string v=".xml"/>
          <string v=".exm"/>
