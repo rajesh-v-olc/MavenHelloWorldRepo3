@@ -129,6 +129,14 @@
          <string v=".xml"/>
          <string v=".exm"/>
          <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
       </list>
       <value n="webIANAEncoding" v="windows-1252"/>
    </hash>
